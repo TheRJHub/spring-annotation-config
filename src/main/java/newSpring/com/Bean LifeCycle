@@ -1,0 +1,1 @@
+Bean instantiation --> setter inj --> init phase(call method)-->Destroyed ioc

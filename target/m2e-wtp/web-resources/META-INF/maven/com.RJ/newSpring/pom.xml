@@ -25,11 +25,7 @@
   		<artifactId>springBasic</artifactId>
   		<version>1.0</version>
   	</dependency>
-  	<dependency>
-  		<groupId>com.rjProject</groupId>
-  		<artifactId>SpringUsingAnnotation</artifactId>
-  		<version>1.0</version>
-  	</dependency>
+
   	
   	<!-- https://mvnrepository.com/artifact/org.hibernate.orm/hibernate-core -->
 <dependency>
